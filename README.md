@@ -23,7 +23,7 @@ in hope to get a better result, so I can't but all things in one notebook
 
     E- evalute_on_test_set Notebook : is the Notebook where I create The Function ‫‪cleaning_result‬‬(),testing_result().
 
-Finlay :
+### Finlay :
 The model I had Trained I didn't upload with this folder because it has a big size.
 
 
